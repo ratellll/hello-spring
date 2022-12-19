@@ -40,7 +40,7 @@ public class MemberService {
     }
 
     /**
-     * 전체회원조회
+     *  전체회원조회
      */
     public List<Member> findMember(){
        return memberRepository.findAll();
