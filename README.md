@@ -5,4 +5,4 @@ API
 memberrepossitory ,member 생성
 회원 도메인과 리포지토리 생성함
 
-
+JPA들어가자 
